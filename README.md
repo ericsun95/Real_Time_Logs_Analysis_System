@@ -1,11 +1,11 @@
 # Real Time Logs Analysis System
 
 ## Configuration
-- Install the hadoop, hbase, kafka, flume and spark with homebrew
+- Install the **hadoop**, **hbase**, **kafka**, **flume** and **spark** with **homebrew**
 - Write the configuration files: \
-**kafka**: zookeeper.properties, server.properties \
-**flume**: streaming_project_kafka.conf \
-**hadoop**: core-site.xml, hadoop-env.sh, hdfs-site.xml, mapred-site.xml, yarn-site.xml
+**kafka**: `zookeeper.properties`, `server.properties` \
+**flume**: `streaming_project_kafka.conf` \
+**hadoop**: `core-site.xml`, `hadoop-env.sh`, `hdfs-site.xml`, `mapred-site.xml`, `yarn-site.xml`
 
 ## Generate Logs (Python)
 Using `crontab` to generate streaming logs.
