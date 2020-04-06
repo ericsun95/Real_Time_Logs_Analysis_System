@@ -47,6 +47,8 @@ Using `crontab` to generate streaming logs.
  ## Web visualization (SpringBoot, Echarts)
  - run `WebVisualizationApplication` in folder **Web_Visualization** in intellij.
  - open the `http://localhost:9999/gatech/echarts`
+ 
+ ![static figure](visualization.png)
   
  
  
