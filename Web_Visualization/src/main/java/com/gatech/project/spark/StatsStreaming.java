@@ -26,7 +26,6 @@ public class StatsStreaming {
         for(LanguageSearchCount model : list) {
             model.setName(Params.courses.get(model.getName().substring(9)));
         }
-
         return list;
     }
 

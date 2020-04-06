@@ -28,9 +28,11 @@ public class LanguageSearchCountDAO {
         Map<String, Long> map = connect.query(Params.COLUMN_FAMILY, Params.COLUMN, tableName, day);
         for(Map.Entry<String, Long> entry : map.entrySet()) {
             LanguageSearchCount model = new LanguageSearchCount();
-            model.setName(entry.getKey());
-            model.setValue(entry.getValue());
-            list.add(model);
+            if(entry.getKey().length() > 9) {
+                model.setName(entry.getKey());
+                model.setValue(entry.getValue());
+                list.add(model);
+            }
         }
         return list;
     }
