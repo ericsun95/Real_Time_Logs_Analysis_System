@@ -1,0 +1,20 @@
+167.98.187.124	2020-04-04 21:16:47	"GET /class/128.html HTTP/1.1"	500	-
+124.30.29.55	2020-04-04 21:16:47	"GET /class/131.html HTTP/1.1"	404	-
+187.98.30.63	2020-04-04 21:16:47	"GET /class/146.html HTTP/1.1"	404	-
+29.30.124.156	2020-04-04 21:16:47	"GET /class/145.html HTTP/1.1"	200	-
+132.72.167.63	2020-04-04 21:16:47	"GET /learn/821 HTTP/1.1"	200	http://www.sogou.com/we?query==learnMaterials
+167.132.98.72	2020-04-04 21:16:47	"GET /class/145.html HTTP/1.1"	404	-
+87.143.46.132	2020-04-04 21:16:47	"GET /course/list HTTP/1.1"	500	-
+98.132.167.46	2020-04-04 21:16:47	"GET /class/131.html HTTP/1.1"	404	http://search.yahoo.com/search?p=Storm
+46.167.63.29	2020-04-04 21:16:47	"GET /class/112.html HTTP/1.1"	404	-
+156.98.46.29	2020-04-04 21:16:47	"GET /class/145.html HTTP/1.1"	200	-
+143.55.46.72	2020-04-04 21:16:47	"GET /class/145.html HTTP/1.1"	500	http://www.sogou.com/we?query==Spark Streaming
+55.30.156.187	2020-04-04 21:16:47	"GET /class/131.html HTTP/1.1"	500	-
+55.187.156.30	2020-04-04 21:16:47	"GET /learn/821 HTTP/1.1"	404	-
+98.55.46.72	2020-04-04 21:16:47	"GET /course/list HTTP/1.1"	500	-
+132.156.124.72	2020-04-04 21:16:47	"GET /class/112.html HTTP/1.1"	404	-
+98.55.10.167	2020-04-04 21:16:47	"GET /course/list HTTP/1.1"	404	-
+46.98.63.87	2020-04-04 21:16:47	"GET /class/131.html HTTP/1.1"	200	-
+10.72.98.87	2020-04-04 21:16:47	"GET /learn/821 HTTP/1.1"	404	-
+72.156.143.63	2020-04-04 21:16:47	"GET /class/146.html HTTP/1.1"	404	http://search.yahoo.com/search?p=Python
+124.167.87.98	2020-04-04 21:16:47	"GET /class/112.html HTTP/1.1"	404	-
