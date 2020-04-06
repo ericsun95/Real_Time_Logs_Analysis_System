@@ -64,7 +64,7 @@ def sample_status_code():
     return random.sample(status_codes, 1)[0]
 def generate_log(count = 10):
     time_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    f = open("/Users/eric_sun/Documents/GitHub/Real_Time_Logs_Analysis_System/data/access.log", "w+")
+    f = open("/Users/eric_sun/Documents/GitHub/Real_Time_Logs_Analysis_System/Data/access.log", "w+")
     while count >= 1:
         url_path = sample_url()
         query_str = match_dict[url_path]
